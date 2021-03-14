@@ -2,18 +2,21 @@
   <div class="container">
     <div class="media mt-4">
       <div class="media-body m-2">
-        <h5 class="align-items-center mt-2">Links</h5>
-        <p>Hallo! Ich bin Schmaik, 14 Jahre aus Hannover. <br> Hier findest du alle meine Links!</p>
+        <h5 class="align-items-center mt-2">Polly </h5>
+        <p>Hallo! Ich bin Polly. Wenn du mich gefunden hast wäre es nett wenn du meine Besitzer kontaktierst. <br> So kannst du meine Herchen anrufen:</p>
       </div>
     </div>
     <div class="mt-4">
-      <Link text="Fly or Die" icon="bi-controller" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie"/>
-      <Link text="Mein Discordserver" icon="bi-discord" href="https://discord.gg/gdgQGpD"/>
+      <Link text="Ruf mein Haus an." icon="bi-telephone" href="tel:0511884343"/>
+      <Link text="Ruf mein Frauchen an" icon="bi-phone" href="tel:+49 151 17454510"/>
+      <Link text="Ruf mein Herchen an" icon="bi-phone" href="tel:+49 173 2131867"/>
       <hr/>
-      <Link text="Tiktok @schmaiiik" icon="bi-camera" href="https://www.tiktok.com/@schmaiiik" class="mt-2"/>
-      <Link text="Instagram @derschmaik" icon="bi-instagram" href="https://www.instagram.com/derschmaik/"/>
-      <Link text="Youtube @schmaik" icon="bi-youtube" href="https://www.youtube.com/channel/UCM7hqabymJChRgU8fUdWYxw"/>
+      <p> Oder per Email: </p>
+      <Link text="Email von Frauchen" icon="bi-envelope" href="mailto:u.bernard@gmx.de" class="mt-2"/>
+      <Link text="Email von Herchen" icon="bi-envelope" href="mailto:klaus.bernard@gmx.de"/>
     </div>
+
+    <img src="require('./assets/polly.jpg')" alt="Das ist Polly!">
   </div>
 </template>
 
