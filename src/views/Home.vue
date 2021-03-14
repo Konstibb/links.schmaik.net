@@ -15,8 +15,6 @@
       <Link text="Email von Frauchen" icon="bi-envelope" href="mailto:u.bernard@gmx.de" class="mt-2"/>
       <Link text="Email von Herchen" icon="bi-envelope" href="mailto:klaus.bernard@gmx.de"/>
     </div>
-
-    <img src="require('./assets/polly.jpg')" alt="Das ist Polly!">
   </div>
 </template>
 
